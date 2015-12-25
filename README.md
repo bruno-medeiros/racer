@@ -14,11 +14,11 @@
 
 This method requires Rust 1.5. Simply run:
 
-```cargo install --git 'https://github.com/phildawes/racer.git'```
+```cargo install --git "https://github.com/phildawes/racer.git"```
 
 Or if you are using multirust:
 
-```multirust run beta cargo install --git 'https://github.com/phildawes/racer.git'```
+```multirust run beta cargo install --git "https://github.com/phildawes/racer.git"```
 
 As mentioned in the command output, don't forget to add the installation directory to your `PATH`.
 
